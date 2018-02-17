@@ -1,3 +1,4 @@
+<style>
 h1 {
   font-weight: bold;
   color: #fff;
@@ -9,3 +10,10 @@ h2 {
   color: #fff;
   font-size: 50px;
 }
+
+h3 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 50px;
+}
+</style>
