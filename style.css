@@ -20,6 +20,12 @@ h3 {
   font-size: 20px;
 }
 
+b { 
+   font-family: TimesNewRoman;
+  font-weight: normal;
+  color: black;
+  font-size: 20px;
+}
 section {
         padding: 20px;
         margin: 20px;
