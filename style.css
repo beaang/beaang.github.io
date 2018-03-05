@@ -1,7 +1,7 @@
 h1 {
   font-family: TimesNewRoman;
   font-weight: bold;
-  color: black;
+  color: #EDECDE;
   font-size: 30px;
 }
 
@@ -9,14 +9,14 @@ h2 {
   
   font-family: TimesNewRoman;
   font-weight: normal;
-  color: black;
+  color: #EDECDE;
   font-size: 20px;
 }
 
 h3 {
   font-family: TimesNewRoman;
   font-weight: normal;
-  color: black;
+  color: #EDECDE;
   font-size: 20px;
 }
 
