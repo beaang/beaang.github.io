@@ -1,4 +1,4 @@
-background-image:http://www.cein.es/media/full01.jpg
+
 h1 {
   font-family: TimesNewRoman;
   font-weight: bold;
@@ -33,6 +33,9 @@ section {
         background-color: #EDECDE;  
         border-radius: 6px solid gold;
   } 
+backgroundimage{
+  .background-image:http://www.cein.es/media/full01.jpg
+}
  
  
  
