@@ -32,6 +32,8 @@ section {
         margin: 15px;
         background-color: #CECCBC;  
         border-radius: 3px solid gold;
+        opacity: 0.5px;
+  
   }  
 
 <style>
