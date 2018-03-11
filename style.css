@@ -35,6 +35,18 @@ section {
   }  
 
 <style>
+.about-me {
+  text-align:center;
+}
+
+.my-skills {
+  text-align: center;
+}
+
+.my-education {
+  text-align:center;
+}
+
 .backgroundimage {
   background-image:url(http://bgcsandieguitoathletics.org/wp-content/uploads/2016/09/background-for-website-1.jpg);
 }
