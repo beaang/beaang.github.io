@@ -27,15 +27,6 @@ b {
   color: white;
   font-size: 20px;
 }
-section {
-    opacity: 0.5px;
-        padding: 10px;
-        margin: 10px;
-        background-color: #000000;  
-        border-radius: 3px solid gold;
-     
-  
-  }  
 
 <style>
 .about-me {
